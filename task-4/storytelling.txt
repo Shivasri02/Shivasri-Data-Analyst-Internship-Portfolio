@@ -1,0 +1,31 @@
+## 📊 Data Story – Task 4
+
+### 1. Objective
+
+The objective of this project is to analyze sales data to identify key patterns, trends, and factors that influence revenue, enabling better business decision-making.
+
+---
+
+### 2. Dataset Description
+
+The dataset consists of sales transactions including product categories, price, quantity sold, and total revenue generated. It provides insights into customer purchasing behavior and product performance.
+
+---
+
+### 3. Key Insights
+
+* The Electronics category generates the highest revenue among all product categories.
+* Sales are significantly higher on weekends compared to weekdays.
+* There is an inverse relationship between price and quantity sold, indicating price sensitivity among customers.
+
+---
+
+### 4. Business Impact
+
+These insights help businesses identify high-performing products, optimize pricing strategies, and focus marketing efforts on peak sales periods to maximize revenue.
+
+---
+
+### 5. Conclusion & Recommendation
+
+Based on the analysis, it is recommended to prioritize high-performing categories like Electronics, implement targeted weekend promotions, and adopt competitive pricing strategies to boost overall sales performance.
